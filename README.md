@@ -28,6 +28,6 @@ KELAS : 2D
 -Kemudian buat folder sesuai style laporan praktikum yang Anda pilih. Disarankan pada folder dokumen atau desktop atau alamat folder lain yang tidak terlalu dalam atau panjang. Lalu    pilih Select a folder to create the project in.
 -Buat nama project flutter hello_world seperti berikut, lalu tekan Enter. Tunggu hingga proses pembuatan project baru selesai.
 -Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru.
--[Hasil Praktikum 1](images1.png)
+Hasil Praktikum 1 <img src="hasil/images1.png" alt="Deskripsi" width="300"/>
 
 
