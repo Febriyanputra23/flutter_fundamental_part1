@@ -14,6 +14,6 @@ A new Flutter project.
 
 - [assets/hasil/images1.png]
 cek
- - [alt text](assets/hasil/images2.png)
+ - ![alt text](/assets/hasil/images2.png)
 
 test 1 2 3
