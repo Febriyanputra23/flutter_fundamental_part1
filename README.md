@@ -12,8 +12,8 @@ A new Flutter project.
 ### KELAS : 2D
 
 
-- [assets/hasil/images1.png]
-cek
- - ![alt text](/assets/hasil/images2.png)
+
+## Hasil Tugas Pertaman
+ - ![alt text](/assets/hasil/images5.png)
 
 test 1 2 3
