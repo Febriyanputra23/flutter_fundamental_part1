@@ -13,7 +13,14 @@ A new Flutter project.
 
 
 
-## Hasil Tugas Pertaman
+## Hasil Tugas Pertama
  - ![alt text](/assets/hasil/images5.png)
 
-test 1 2 3
+## Hasil Tugas Kedua
+ - ![alt text](assets/hasil/images2.png)
+
+## Hasil Tugas Ketiga
+ - ![alt text](assets/hasil/images3.png)
+
+ ## Hasil Tugas Keempat
+ - ![alt text](assets/hasil/images4.png)
