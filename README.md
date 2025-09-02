@@ -7,12 +7,6 @@ A new Flutter project.
 
 ## Project Pertama Flutter 
 
-### NIM : 362458302042
-### NAMA : Febriyan Putra Hariadi
-### KELAS : 2D
-
-
-
 ## Hasil Tugas Pertama
  - ![alt text](/assets/hasil/images5.png)
 
